@@ -111,7 +111,7 @@ Nian Liu, Kepan Nan, **Wangbo Zhao**, Yuanwei Liu, Xiwen Yao, Salman Khan, Hisha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/1729772971568.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modeling motion with multi-modal features for text-based video segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Modeling_Motion_With_Multi-Modal_Features_for_Text-Based_Video_Segmentation_CVPR_2022_paper.pdf)
@@ -124,7 +124,7 @@ Nian Liu, Kepan Nan, **Wangbo Zhao**, Yuanwei Liu, Xiwen Yao, Salman Khan, Hisha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/screenshot-20241024-203022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Weakly supervised video salient object detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Weakly_Supervised_Video_Salient_Object_Detection_CVPR_2021_paper.pdf)

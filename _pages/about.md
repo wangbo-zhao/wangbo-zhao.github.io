@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a third-year Ph.D. Student in the School of Computing, National University of Singapore, supervised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>.
+I am currently a third-year Ph.D. Student in the School of Computing, National University of Singapore, supervised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>. Before that, I obtained my master's and bachelor's degrees from Northwestern Polytechnical University, China, in 2019 and 2012, respectively.
 
-My research interest includes efficient deep learning, dynamic neural network, and mulit-modal model. I have published more than 10 papers at the top international AI conferences and journal with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes efficient deep learning, dynamic neural network, and mulit-modal model. I have published more than 10 papers at the top international AI conferences and journals with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I welcome any form of academic cooperation or project cooperation. We are also seeking self-motivated intern students, please feel free to email me at wangbo.zhao96@gmail.com.
 

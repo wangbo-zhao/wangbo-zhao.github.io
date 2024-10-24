@@ -55,9 +55,9 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 - *2019.09 - 2022.04*, Master, School of Automation, Northwestern Polytechnical University, China
 - *2015.09 - 2019.06*, Undergraduate, Honors College, Northwestern Polytechnical University, China
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

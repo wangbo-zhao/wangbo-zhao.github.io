@@ -44,7 +44,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/1729770756002.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/1729771121493.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation](https://arxiv.org/pdf/2403.11808)

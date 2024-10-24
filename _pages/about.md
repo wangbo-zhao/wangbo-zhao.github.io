@@ -43,6 +43,19 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/1729770756002.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation](https://arxiv.org/pdf/2403.11808)
+
+**Wangbo Zhao**, Jiasheng Tang, Yizeng Han, Yibing Song, Kai Wang, Gao Huang, Fan Wang, Yang You
+
+- We propose to adapt static ViT to dynamic ViT via parameter-efficient fine-tuning without full-parameter tuning. 
+</div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 

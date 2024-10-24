@@ -78,7 +78,7 @@ Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, **Wangbo Zhao**, Y
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/1729772837643.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_VSCode_General_Visual_Salient_and_Camouflaged_Object_Detection_with_2D_CVPR_2024_paper.pdf)
@@ -91,7 +91,7 @@ Ziyang Luo, Nian Liu, **Wangbo Zhao**, Xuguang Yang, Dingwen Zhang, Deng-Ping Fa
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/1729772895998.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-grained temporal prototype learning for few-shot video object segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Multi-grained_Temporal_Prototype_Learning_for_Few-shot_Video_Object_Segmentation_ICCV_2023_paper.pdf)

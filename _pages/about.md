@@ -49,6 +49,9 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 [Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation](https://arxiv.org/pdf/2403.11808)
 
+[**Code**](https://github.com/NUS-HPC-AI-Lab/Dynamic-Tuning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
 **Wangbo Zhao**, Jiasheng Tang, Yizeng Han, Yibing Song, Kai Wang, Gao Huang, Fan Wang, Yang You
 
 - We propose to adapt static ViT to dynamic ViT via parameter-efficient fine-tuning without full-parameter tuning. 
@@ -56,7 +59,6 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->

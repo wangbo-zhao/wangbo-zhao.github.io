@@ -126,7 +126,7 @@ Nian Liu, Kepan Nan, **Wangbo Zhao**, Yuanwei Liu, Xiwen Yao, Salman Khan, Hisha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/screenshot-20241024-203022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/screenshot-20241024-203556.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Light field saliency detection with dual local graph learning and reciprocative guidance](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Light_Field_Saliency_Detection_With_Dual_Local_Graph_Learning_and_ICCV_2021_paper.pdf)

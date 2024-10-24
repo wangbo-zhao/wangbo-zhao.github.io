@@ -75,6 +75,20 @@ Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, **Wangbo Zhao**, Y
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 (Oral)</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modeling motion with multi-modal features for text-based video segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Modeling_Motion_With_Multi-Modal_Features_for_Text-Based_Video_Segmentation_CVPR_2022_paper.pdf)
+
+**Wangbo Zhao**, Kai Wang, Xiangxiang Chu, Fuzhao Xue, Xinchao Wang, Yang You
+
+- We design a method to fuse and align appearance, motion, and linguistic features to achieve accurate text-based video segmentation.
+</div>
+</div>
+
+
+
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 

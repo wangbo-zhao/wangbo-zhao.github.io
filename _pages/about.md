@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+I am currently a third-year Ph.D. Student in the School of Computing, National University of Singapore, supervised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>.
 
 My research interest includes efficient deep learning, dynamic neural network, and mulit-modal model. I have published more than 10 papers at the top international AI conferences and journal with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 

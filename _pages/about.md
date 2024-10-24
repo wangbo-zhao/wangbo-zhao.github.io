@@ -68,8 +68,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, **Wangbo Zhao**, Yike Yuan, Jiaqi Wang, Conghui He, Ziwei Liu, Kai Chen, Dahua Lin
 
-- We propose MMBench, a bilingual benchmark for
-assessing the multi-modal capabilities of VLMs.
+- We propose MMBench, a bilingual benchmark for assessing the multi-modal capabilities of VLMs.
 </div>
 </div>
 
@@ -86,9 +85,9 @@ assessing the multi-modal capabilities of VLMs.
 
 
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2022.08 - 2026.06*, Ph.D., School of Computing, National University of Singapore, Singapore. 

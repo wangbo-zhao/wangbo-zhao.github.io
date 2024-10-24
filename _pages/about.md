@@ -174,6 +174,7 @@ Nian Liu*, **Wangbo Zhao***, Dingwen Zhang, Junwei Han, Ling Shao
 # 📖 Educations
 - *2022.08 - 2026.06*, Ph.D., School of Computing, National University of Singapore, Singapore. 
 - *2019.09 - 2022.04*, Master, School of Automation, Northwestern Polytechnical University, China
+- *2017.07 - 2019.01*, Undergraduate, Université de technologie de Troyes, France
 - *2015.09 - 2019.06*, Undergraduate, Honors College, Northwestern Polytechnical University, China
 
 <!-- # 💬 Invited Talks

@@ -51,7 +51,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.08 - 2026.06*, Phd.D, School of Computing, National University of Singapore, Singapore. 
+- *2022.08 - 2026.06*, Ph.D., School of Computing, National University of Singapore, Singapore. 
 - *2019.09 - 2022.04*, Master, School of Automation, Northwestern Polytechnical University, China
 - *2015.09 - 2019.06*, Undergraduate, Honors College, Northwestern Polytechnical University, China
 

@@ -91,7 +91,7 @@ Ziyang Luo, Nian Liu, **Wangbo Zhao**, Xuguang Yang, Dingwen Zhang, Deng-Ping Fa
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/1729772895998.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/1729772895998.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-grained temporal prototype learning for few-shot video object segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Multi-grained_Temporal_Prototype_Learning_for_Few-shot_Video_Object_Segmentation_ICCV_2023_paper.pdf)
@@ -121,6 +121,24 @@ Nian Liu, Kepan Nan, **Wangbo Zhao**, Yuanwei Liu, Xiwen Yao, Salman Khan, Hisha
 - We design a method to fuse and align appearance, motion, and linguistic features to achieve accurate text-based video segmentation.
 </div>
 </div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/screenshot-20241024-203022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Light field saliency detection with dual local graph learning and reciprocative guidance](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Light_Field_Saliency_Detection_With_Dual_Local_Graph_Learning_and_ICCV_2021_paper.pdf)
+
+Nian Liu*, **Wangbo Zhao***, Dingwen Zhang, Junwei Han, Ling Shao
+
+- We introduce a reciprocative guidance scheme for light field saliency detection.
+</div>
+</div>
+
+
+
 
 
 

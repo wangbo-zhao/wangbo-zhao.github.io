@@ -61,6 +61,21 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 (Oral)</div><img src='images/1729771121493.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mmbench: Is your multi-modal model an all-around player?](https://arxiv.org/pdf/2307.06281)
+
+Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, **Wangbo Zhao**, Yike Yuan, Jiaqi Wang, Conghui He, Ziwei Liu, Kai Chen, Dahua Lin
+
+- We propose MMBench, a bilingual benchmark for
+assessing the multi-modal capabilities of VLMs.
+</div>
+</div>
+
+
+
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 

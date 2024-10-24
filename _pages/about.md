@@ -37,6 +37,8 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 [Dynamic diffusion transformer](https://arxiv.org/pdf/2410.03456)
 
+[**Code**](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 **Wangbo Zhao**, Yizeng Han, Jiasheng Tang, Kai Wang, Yibing Song, Gao Huang, Fan Wang, Yang You
 
 - We propose to dynamically adjust the computation of DiT in different timesteps and spatial locations of images. The computation of DiT-XL could be saved by 50% without sacrificing generation quality. 

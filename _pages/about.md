@@ -61,7 +61,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 (Oral)</div><img src='images/1729771121493.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 (Oral)</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mmbench: Is your multi-modal model an all-around player?](https://arxiv.org/pdf/2307.06281)

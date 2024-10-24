@@ -77,6 +77,24 @@ Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, **Wangbo Zhao**, Y
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_VSCode_General_Visual_Salient_and_Camouflaged_Object_Detection_with_2D_CVPR_2024_paper.pdf)
+
+Ziyang Luo, Nian Liu,** Wangbo Zhao**, Xuguang Yang, Dingwen Zhang, Deng-Ping Fan, Fahad Khan, Junwei Han
+
+- We introduce VSCode a generalist model with novel 2D prompt learning to jointly address four SOD tasks and three COD tasks
+</div>
+</div>
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/1729771541362.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

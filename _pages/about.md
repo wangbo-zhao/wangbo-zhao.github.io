@@ -22,9 +22,9 @@ I am currently a third-year Ph.D. Student in the School of Computing, National U
 
 
 
-My research interest includes **efficient deep learning, dynamic neural network, and mulit-modal model**. I have published more than 10 papers at the top international AI conferences and journals with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes **efficient deep learning, dynamic neural network, and mulit-modal model**. I have published more than 10 papers at the top international AI conferences and journals with <a href='https://scholar.google.com.hk/citations?user=aocj89kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-I welcome any form of academic cooperation or project cooperation. **We are also seeking self-motivated intern students, please feel free to email me at wangbo.zhao96@gmail.com.**
+All talents are welcome to send an email (wangbo.zhao96@gmail.com) to me if you are interested in collaborating on projects related to efficient deep learning or other promising research directions.
 
 Apart from research, I am an amateur track and field athlete, specializing in the 400 meters (PB 53.40)  and 400-meter hurdles (PB 1:01.78).
 

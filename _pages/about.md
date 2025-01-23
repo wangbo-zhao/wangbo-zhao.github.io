@@ -30,6 +30,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted to ECCV 2024. 
 

@@ -30,11 +30,29 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted to ECCV 2024. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/1740983914229.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs](https://arxiv.org/pdf/2412.03324)
+
+[**Code**](https://github.com/NUS-HPC-AI-Lab/SGL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+**Wangbo Zhao**, Yizeng Han, Jiasheng Tang, Zhikai Li, Yibing Song, Kai Wang, Zhangyang Wang, Yang You
+
+- We employ the attention map aggregated from a small VLM to guide visual token pruning in a large VLM. And an early exiting mechanism is developed to fully use the small VLM's predictions, dynamically invoking the larger VLM only when necessary, yielding a superior trade-off between accuracy and computation.
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/1729770756002.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -41,6 +41,28 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/EA-ViT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EA-ViT: Efficient Adaptation for Elastic Vision Transformer](https://arxiv.org/pdf/2507.19360)
+
+[**Code**](https://github.com/zcxcf/EA-ViT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+Chen Zhu, **Wangbo Zhao†**, Huiwen Zhang, Samir Khaki, Yuhao Zhou, Weidong Tang, Shuo Wang, Zhihang Yuan, Yuzhang Shang, Xiaojiang Peng, Kai Wang, Dawei Yang†
+
+- EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a single process to generate flexible models of varying sizes for diverse resource constraints, using a nested elastic architecture and a lightweight router optimized with Pareto-optimal configurations.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/1740983914229.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

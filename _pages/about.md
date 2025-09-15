@@ -30,7 +30,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.. 
+- *2025.09*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025. 
 - *2025.06*: &nbsp;🎉🎉 I begin my Internship at Mete in Zurich. 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2025. 
@@ -54,6 +54,24 @@ Chen Zhu, **Wangbo Zhao†**, Huiwen Zhang, Samir Khaki, Yuhao Zhou, Weidong Tan
 - EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a single process to generate flexible models of varying sizes for diverse resource constraints, using a nested elastic architecture and a lightweight router optimized with Pareto-optimal configurations.
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/screenshot-20250915-135005.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised Learning for Class Distribution Mismatch](https://arxiv.org/pdf/2505.06948)
+
+
+Pan Du, **Wangbo Zhao†**, Xinai Lu, Nian Liu, Zhikai Li, Chaoyu Gong, Suyun Zhao†, Hong Chen, Cuiping Li, Kai Wang, Yang You
+
+- UCDM addresses Class Distribution Mismatch (CDM) by leveraging unlabeled data to train classifiers through positive-negative pairs, synthesized using a diffusion model, and a confidence-based pseudo-labeling mechanism, achieving superior performance over semi-supervised methods without relying on labeled data.
+</div>
+</div>
+
+
+
 
 
 

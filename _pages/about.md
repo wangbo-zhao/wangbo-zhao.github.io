@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a third-year Ph.D. Student in the School of Computing, National University of Singapore, advised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>. Before that, I obtained my master's and bachelor's degrees from Northwestern Polytechnical University, China, in 2019 and 2022, respectively. During my master's study, I was fortunatedly to collaborate with Dr. <a href='https://sites.google.com/site/liunian228/'> Nian Liu</a>, under the supervision from Prof. <a href='https://scholar.google.com.hk/citations?user=xrqsoesAAAAJ&hl=zh-CN&oi=ao'> Junwei Han</a>. 
+I am currently a fourth(final)-year Ph.D. Student in the School of Computing, National University of Singapore, advised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>. Before that, I obtained my master's and bachelor's degrees from Northwestern Polytechnical University, China, in 2019 and 2022, respectively. During my master's study, I was fortunatedly to collaborate with Dr. <a href='https://sites.google.com/site/liunian228/'> Nian Liu</a>, under the supervision from Prof. <a href='https://scholar.google.com.hk/citations?user=xrqsoesAAAAJ&hl=zh-CN&oi=ao'> Junwei Han</a>. 
 
 
 
@@ -30,6 +30,10 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.. 
+- *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025. 
+- *2025.06*: &nbsp;🎉🎉 I begin my Internship at Mete in Zurich. 
+- *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2025. 
 - *2025.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024. 

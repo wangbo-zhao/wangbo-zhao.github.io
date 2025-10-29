@@ -30,7 +30,9 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.
+- *2025.10*: &nbsp;🎉🎉 I was invited to give a talk at the Global College of Shanghai Jiao Tong University.
+- *2025.10*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.
+- *2025.09*: &nbsp;🎉🎉 I was invited to give a talk at ShanghaiTech University.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025. 
 - *2025.06*: &nbsp;🎉🎉 I begin my Internship at Meta in Zurich. 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2025. 

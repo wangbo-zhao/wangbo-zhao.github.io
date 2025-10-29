@@ -30,6 +30,7 @@ Apart from research, I am an amateur track and field athlete, specializing in th
 
 
 # 🔥 News
+I will be giving talks at the Eastern Institute of Technology, HKUST (Guangzhou), and Northwestern Polytechnical University in November 2025.
 - *2025.10*: &nbsp;🎉🎉 I was invited to give a talk at the Global College of Shanghai Jiao Tong University.
 - *2025.10*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.
 - *2025.09*: &nbsp;🎉🎉 I was invited to give a talk at ShanghaiTech University.

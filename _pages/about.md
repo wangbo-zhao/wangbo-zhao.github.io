@@ -26,7 +26,7 @@ My research interest includes **efficient deep learning, dynamic neural network,
 
 All talents are welcome to send an email (wangbo.zhao96@gmail.com) to me if you are interested in collaborating on projects related to efficient deep learning or other promising research directions.
 
-Apart from research, I am an amateur track and field athlete, specializing in the 400 meters (PB 53.40)  and 400-meter hurdles (PB 1:01.78).
+Beyond research, I am an amateur athlete specializing in the 400 meters (personal best: 53.40) and 400-meter hurdles (personal best: 1:01.78). I was honored to represent NUS in national-level competitions in Singapore and NPWU in provincial-level competitions in Shanxi, China.
 
 
 # 🔥 News

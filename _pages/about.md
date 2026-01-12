@@ -53,7 +53,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 [**Code**](https://github.com/alibaba-damo-academy/DyDiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-**Wangbo Zhao***, Yizeng Han*, Jiasheng Tang, Kai Wang, Hao Luo, Yibing Song, Gao Huang, Fan Wang, Yang You
+**Wangbo Zhao\***, Yizeng Han*, Jiasheng Tang, Kai Wang, Hao Luo, Yibing Song, Gao Huang, Fan Wang, Yang You
 
 - DyDiT++ enhances DyDiT with integration with flow matching for broader applications, improved adaptability to complex tasks, and timestep-based dynamic LoRA for efficient training。
 </div>

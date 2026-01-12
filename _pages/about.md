@@ -46,7 +46,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/dydit++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/dydit++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation](https://arxiv.org/abs/2504.06803)

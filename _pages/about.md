@@ -218,7 +218,7 @@ Nian Liu, Kepan Nan, **Wangbo Zhao**, Yuanwei Liu, Xiwen Yao, Salman Khan, Hisha
 
 [Light field saliency detection with dual local graph learning and reciprocative guidance](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Light_Field_Saliency_Detection_With_Dual_Local_Graph_Learning_and_ICCV_2021_paper.pdf)
 
-Nian Liu*, **Wangbo Zhao***, Dingwen Zhang, Junwei Han, Ling Shao
+Nian Liu*, **Wangbo Zhao**, Dingwen Zhang, Junwei Han, Ling Shao
 
 - We introduce a reciprocative guidance scheme for light field saliency detection.
 </div>

@@ -43,7 +43,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted to ECCV 2024. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/dydit++.png' alt="sym" width="100%"></div></div>

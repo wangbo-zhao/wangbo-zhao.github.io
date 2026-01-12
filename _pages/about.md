@@ -46,6 +46,23 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/dydit++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation](https://arxiv.org/abs/2504.06803)
+
+[**Code**](https://github.com/alibaba-damo-academy/DyDiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+**Wangbo Zhao***, Yizeng Han*, Jiasheng Tang, Kai Wang, Hao Luo, Yibing Song, Gao Huang, Fan Wang, Yang You
+
+- DyDiT++ enhances DyDiT with integration with flow matching for broader applications, improved adaptability to complex tasks, and timestep-based dynamic LoRA for efficient training。
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/EA-ViT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

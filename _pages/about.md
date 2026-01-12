@@ -22,7 +22,7 @@ I am currently a fourth(final)-year Ph.D. Student in the School of Computing, Na
 
 
 
-My research interest includes **efficient deep learning, dynamic neural network, and mulit-modal model**. I have published more than 10 papers at the top international AI conferences and journals with <a href='https://scholar.google.com.hk/citations?user=aocj89kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes **Efficient AI, Dynamic Models and Model-system Co-design**. I have published more than 10 papers at the top international AI conferences and journals with <a href='https://scholar.google.com.hk/citations?user=aocj89kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 All talents are welcome to send an email (wangbo.zhao96@gmail.com) to me if you are interested in collaborating on projects related to efficient deep learning or other promising research directions.
 

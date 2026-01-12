@@ -53,7 +53,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 [**Code**](https://github.com/alibaba-damo-academy/DyDiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-**Wangbo Zhao\***, Yizeng Han*, Jiasheng Tang, Kai Wang, Hao Luo, Yibing Song, Gao Huang, Fan Wang, Yang You
+**Wangbo Zhao\***, Yizeng Han\*, Jiasheng Tang, Kai Wang, Hao Luo, Yibing Song, Gao Huang, Fan Wang, Yang You
 
 - DyDiT++ enhances DyDiT with integration with flow matching for broader applications, improved adaptability to complex tasks, and timestep-based dynamic LoRA for efficient training。
 </div>
@@ -218,7 +218,7 @@ Nian Liu, Kepan Nan, **Wangbo Zhao**, Yuanwei Liu, Xiwen Yao, Salman Khan, Hisha
 
 [Light field saliency detection with dual local graph learning and reciprocative guidance](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Light_Field_Saliency_Detection_With_Dual_Local_Graph_Learning_and_ICCV_2021_paper.pdf)
 
-Nian Liu*, **Wangbo Zhao**, Dingwen Zhang, Junwei Han, Ling Shao
+Nian Liu\*, **Wangbo Zhao\***, Dingwen Zhang, Junwei Han, Ling Shao
 
 - We introduce a reciprocative guidance scheme for light field saliency detection.
 </div>

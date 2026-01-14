@@ -31,6 +31,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to TPAMI 2026. Congratulations to all the authors!
+- *2026.01*: &nbsp;🎉🎉 I have successfully completed my thesis defense!
 - *2025.11*: &nbsp;🎉🎉 I am invited to give a talk at the the Eastern Institute of Technology and HKUST(GZ).
 - *2025.10*: &nbsp;🎉🎉 I am invited to give a talk at the Global College of Shanghai Jiao Tong University.
 - *2025.10*: &nbsp;🎉🎉 Recipient of the Google PhD Fellowship 2025 in Machine Learning and ML Foundations.

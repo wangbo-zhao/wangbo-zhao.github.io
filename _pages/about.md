@@ -48,6 +48,31 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 # 📝 Selected Publications 
 
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/rapid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer](https://arxiv.org/pdf/2509.22323)
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+**Wangbo Zhao**,, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You
+
+- RAPID3 speeds up DiT models like FLUX by 3x using adaptive reinforcement learning policies that accelerate sampling without needing any fine-tuning of the original generator.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/dydit++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +82,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 **Wangbo Zhao\***, Yizeng Han\*, Jiasheng Tang, Kai Wang, Hao Luo, Yibing Song, Gao Huang, Fan Wang, Yang You
 
-- DyDiT++ enhances DyDiT with integration with flow matching for broader applications, improved adaptability to complex tasks, and timestep-based dynamic LoRA for efficient training。
+- DyDiT++ enhances DyDiT with integration with flow matching for broader applications, improved adaptability to complex tasks, and timestep-based dynamic LoRA for efficient training.
 </div>
 </div>
 

@@ -81,7 +81,7 @@ Geng Zhang, Yuxuan Han, Yuxuan Lou, **Wangbo Zhao†**, Yiqi Zhang, Yang You†
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-**Wangbo Zhao**,, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You
+**Wangbo Zhao**, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You
 
 - RAPID3 speeds up DiT models like FLUX by 3x using adaptive reinforcement learning policies that accelerate sampling without needing any fine-tuning of the original generator.
 </div>

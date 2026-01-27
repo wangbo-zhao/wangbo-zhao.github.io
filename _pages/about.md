@@ -30,7 +30,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Four papers accepted to ICLR 2026! Proud of the team’s contributions to efficient diffusion, MoE, Tracking, and Evaluation. Congratulations to everyone involved! 🚀
+- *2026.01*: &nbsp;🎉🎉 Four papers accepted to ICLR 2026! Proud of the team’s contributions to efficient diffusion, MoE, Tracking, and Evaluation. Congratulations to everyone involved! 🚀
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to TPAMI 2026. Congratulations to all the authors!
 - *2026.01*: &nbsp;🎉🎉 I have successfully completed my thesis defense!
 - *2025.11*: &nbsp;🎉🎉 I am invited to give a talk at the the Eastern Institute of Technology and HKUST(GZ).

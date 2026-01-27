@@ -51,6 +51,29 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/mone.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE](https://arxiv.org/pdf/2507.00390)
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+Geng Zhang, Yuxuan Han, Yuxuan Lou, **Wangbo Zhao†**, Yiqi Zhang, Yang You†
+
+- MoNE achieves efficient MoE compression by replacing redundant experts with lightweight "novices," significantly reducing memory overhead while maintaining higher accuracy than traditional pruning.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/rapid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,9 +86,6 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 - RAPID3 speeds up DiT models like FLUX by 3x using adaptive reinforcement learning policies that accelerate sampling without needing any fine-tuning of the original generator.
 </div>
 </div>
-
-
-
 
 
 

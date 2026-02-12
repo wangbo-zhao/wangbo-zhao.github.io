@@ -58,7 +58,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-Geng Zhang, Yuxuan Han, Yuxuan Lou, **Wangbo Zhao†**, Yiqi Zhang, Yang You†
+Geng Zhang, Yuxuan Han, Yuxuan Lou, Yiqi Zhang, **Wangbo Zhao†**, Yang You†
 
 - MoNE achieves efficient MoE compression by replacing redundant experts with lightweight "novices," significantly reducing memory overhead while maintaining higher accuracy than traditional pruning.
 </div>

@@ -27,7 +27,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL 2026.a
+- *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL 2026.
 - *2026.03*: &nbsp;🎉🎉 I am invited to give a talk at the the CUHK(SZ).
 - *2026.02*: &nbsp;🎉🎉 Three papers accepted to CVPR 2026, including efficient SAM2, autoregressive video generation, and 3D human avatar modeling! 
 - *2026.01*: &nbsp;🎉🎉 Four papers accepted to ICLR 2026! Proud of the team’s contributions to efficient DiT, MoE, visual tracking, and generation evaluation. Congratulations to everyone involved! 🚀

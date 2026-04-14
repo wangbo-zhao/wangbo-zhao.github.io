@@ -16,10 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-
-I am currently a fourth(final)-year Ph.D. Student in the School of Computing, National University of Singapore, advised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>. Before that, I obtained my master's and bachelor's degrees from Northwestern Polytechnical University, China, in 2019 and 2022, respectively. During my master's study, I was fortunatedly to collaborate with Dr. <a href='https://sites.google.com/site/liunian228/'> Nian Liu</a>, under the supervision from Prof. <a href='https://scholar.google.com.hk/citations?user=xrqsoesAAAAJ&hl=zh-CN&oi=ao'> Junwei Han</a>. 
-
+I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), working with Prof. <a href='https://www.cse.ust.hk/~weiwa/index.html'>Wei Wang</a>. I received my Ph.D. from the School of Computing, National University of Singapore (NUS) in March 2026, where I was advised by Prof. <a href='https://www.comp.nus.edu.sg/~youy/'>Yang You</a>. Prior to that, I earned my Bachelor's and Master's degrees from Northwestern Polytechnical University (NWPU) in 2019 and 2022, respectively. During my graduate studies, I was fortunate to collaborate with Dr. <a href='https://sites.google.com/site/liunian228/'>Nian Liu</a> under the supervision of Prof. <a href='https://scholar.google.com.hk/citations?user=xrqsoesAAAAJ&hl=zh-CN&oi=ao'>Junwei Han</a>.
 
 
 My research interest includes **Efficient AI, Dynamic Models and Model-system Co-design**. I have published more than 20 papers at the top international AI conferences and journals with <a href='https://scholar.google.com.hk/citations?user=aocj89kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -30,6 +27,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL 2026.
 - *2026.02*: &nbsp;🎉🎉 Three papers accepted to CVPR 2026, including efficient SAM2, autoregressive video generation, and 3D human avatar modeling! 
 - *2026.01*: &nbsp;🎉🎉 Four papers accepted to ICLR 2026! Proud of the team’s contributions to efficient DiT, MoE, visual tracking, and generation evaluation. Congratulations to everyone involved! 🚀
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to TPAMI 2026. Congratulations to all the authors!

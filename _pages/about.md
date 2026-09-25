@@ -27,6 +27,7 @@ Beyond research, I am an amateur athlete specializing in the 400 meters (persona
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Four papers accepted to NeurIPS 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL 2026.
 - *2026.03*: &nbsp;🎉🎉 I am invited to give a talk at the the CUHK(SZ).
 - *2026.02*: &nbsp;🎉🎉 Three papers accepted to CVPR 2026, including efficient SAM2, autoregressive video generation, and 3D human avatar modeling! 
